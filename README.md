@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Hi! ?
+## 👋 Hi!
 I am a mechatronics engineer student from Polish-
