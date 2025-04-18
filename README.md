@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 👋 Hi!
-I am a mechatronics engineer student from Poland
+I am a mechatronics engineer student from Poland. 
